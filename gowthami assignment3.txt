@@ -1,0 +1,20 @@
+1q.what open source tool?
+a.Open source software is software with source code that anyone can inspect, modify, and enhance.
+2q.what is paid tool?
+a.paid tools are those which needs to pay.
+3q.Anaconda software helps you create an environment for many different versions of Python and package versions.
+4.what is differance between versions in pyton?
+a.Python 2 has more complicated syntax than Python 3. Python 3 has an easier syntax compared to Python 2. 
+5q.what is defference between exe file and set up file?
+a. EXE files which can use custom installation scripting or can be used as a wrapper to contain .
+6q.what is difference between anaconda navigator and anaconda prompt?
+a.Navigator is a desktop graphical user interface that allows you to launch applications and easily manage conda packages, environments,
+ and channels without using command-line commands
+7q.what is defferance between jupyter and spyder tool?
+a.Jupyter is an interactive Python notebook where you can run code, visualize data and include text all in one document,
+8.what is between development, testing and deployment? 
+a.a phased approach to software testing and deployment.
+9.why we use jupyter termin al?
+a. compile all aspects of a data project in one place making it easier to show the entire process of a project to your intended audience. 
+10q.what is files, running and cluster in jupyter?
+a.Jupyter sessions run on the compute nodes which do not have Internet access. 
